@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ariel Burstein | Yasutaka Koike-Mori</title>
+    <link>https://yasutakakoike-mori.github.io/author/ariel-burstein/</link>
+      <atom:link href="https://yasutakakoike-mori.github.io/author/ariel-burstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ariel Burstein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yasutakakoike-mori.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ariel Burstein</title>
+      <link>https://yasutakakoike-mori.github.io/author/ariel-burstein/</link>
+    </image>
+    
+    <item>
+      <title>A Fixed Point Approach to Measuring Welfare</title>
+      <link>https://yasutakakoike-mori.github.io/publication/working-paper-1/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://yasutakakoike-mori.github.io/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
