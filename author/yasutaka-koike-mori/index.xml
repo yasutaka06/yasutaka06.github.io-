@@ -5,12 +5,20 @@
     <link>https://yasutaka06.github.io/author/yasutaka-koike-mori/</link>
       <atom:link href="https://yasutaka06.github.io/author/yasutaka-koike-mori/index.xml" rel="self" type="application/rss+xml" />
     <description>Yasutaka Koike-Mori</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yasutaka06.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yasutaka Koike-Mori</title>
       <link>https://yasutaka06.github.io/author/yasutaka-koike-mori/</link>
     </image>
+    
+    <item>
+      <title>Measuring Welfare by Matching Households Across Time</title>
+      <link>https://yasutaka06.github.io/publication/working-paper-1/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yasutaka06.github.io/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>International Shocks, Distorted Firm-to-Firm Production Network, and Aggregate Productivity</title>
@@ -25,22 +33,6 @@
       <link>https://yasutaka06.github.io/publication/wip1/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://yasutaka06.github.io/publication/wip1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring Welfare by Matching Households Across Time</title>
-      <link>https://yasutaka06.github.io/publication/working-paper-1/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://yasutaka06.github.io/publication/working-paper-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Production Network, Endogenous Misallocation and the Gain from International Trade</title>
-      <link>https://yasutaka06.github.io/publication/wip/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://yasutaka06.github.io/publication/wip/</guid>
       <description></description>
     </item>
     
@@ -247,6 +239,14 @@ date: 2019-09-01
 &lt;p&gt;Released under the 
 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Production Network, Endogenous Misallocation and the Gain from International Trade</title>
+      <link>https://yasutaka06.github.io/publication/wip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yasutaka06.github.io/publication/wip/</guid>
+      <description></description>
     </item>
     
   </channel>
