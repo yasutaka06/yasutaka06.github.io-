@@ -23,7 +23,13 @@
     <loc>https://yasutaka06.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://yasutaka06.github.io/talk/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://yasutaka06.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yasutaka06.github.io/talk/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yasutaka06.github.io/</loc>
@@ -92,6 +98,12 @@
     <loc>https://yasutaka06.github.io/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://yasutaka06.github.io/post/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yasutaka06.github.io/post/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://yasutaka06.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -102,6 +114,9 @@
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://yasutaka06.github.io/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yasutaka06.github.io/post/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yasutaka06.github.io/slides/</loc>
@@ -132,6 +147,9 @@
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://yasutaka06.github.io/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://yasutaka06.github.io/post/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://yasutaka06.github.io/tag/plot/</loc>
