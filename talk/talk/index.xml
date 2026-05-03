@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Yasutaka Koike-Mori</title>
+    <title>Recent &amp; Upcoming Talks | Yasutaka Koike</title>
     <link>https://yasutaka06.github.io/talk/talk/</link>
       <atom:link href="https://yasutaka06.github.io/talk/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
